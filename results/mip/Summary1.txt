@@ -1,0 +1,14 @@
+InitializationTime(s);-1
+SamplingTime(s);-1
+SetPartitioningTime(s);-1
+FinalCost;34.0
+FixedCost;0.0
+VariableCost;34.0
+BestLowerBound;19.917968749999996
+Iterations;-1
+Routes;2
+RNN;-1
+RNI;-1
+RFI;-1
+RBI;-1
+RNF;-1
